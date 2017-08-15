@@ -28,7 +28,9 @@ As a bonus I added firework particle effect and balloons behind the tent to achi
 **Challenges:**
 
 1.Figuring out the min and max toss power so that the coin lands on the ground when power scale is up 50%.We had been given a hint to look for a hidden code within the scene to unlock the values.
+
 2.One interesting point to note was the editor preview when the game was played would show mono and not stereo , after some googling I figured that Google VR sdk 1.50.0 , Editor preview would be mono and not stereo but will support simulated headtracking through alt+mouse click.The same showed fine when deployed to  Android phone.
+
 3.This project also helped me to gain more proficiency in Git, GitHub and writing README files.
 
 
