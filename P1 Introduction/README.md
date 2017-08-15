@@ -19,7 +19,9 @@ Moving the teddy bear in front of the camera so that it doesnot fall on the came
 Personalizing the ScoreBoard to my name instead of Udacity's Scores.
 
 **Extra Features Added**
+
 Added firework particle effect and balloons behind the tent.
 
-** Challenges:**
+**Challenges:**
+
 Figuring out the min and max toss power so that the coin lands on the ground when power scale is up 50%.We had been given a hint to look for a hidden code within the scene to unlock the values.
