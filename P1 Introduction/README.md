@@ -5,6 +5,8 @@ Customise the Carnival scene and deploy it to Android device.The goal of this pr
 
 **Project Settings:**
 
+The Scene is located in Assets/UdacityVR/Scenes/Carnival.unity
+
   1.Unity 5.6.1p2
   
   2.GoogleVR UnitySDK:1.50.0
