@@ -6,6 +6,8 @@
 **Project Objective:** Build a new apartment scene with nice lighting and Custom animation.Then, deploy it to Cardboard headset.
 
 **Project Settings:** 
+
+The scene can be loaded from:Assets/VRND-Course2-Project/Scenes/VRND-Course2-Starter_Project.unity
   Unity 5.5.1f1
   GoogleVR UnitySDK:1.0
   
