@@ -1,8 +1,10 @@
 **Project Name:** Udacity carnival
 
-**Project Objective:** Customise the Carnival scene and deploy it to Android device.The goal of this project was basic familiarisation with the Unity editor, learning how to navigate around scene in Unity and deploying the project from Unity to Android/iOS.
+**Project Objective:** 
+Customise the Carnival scene and deploy it to Android device.The goal of this project was basic familiarisation with the Unity editor, learning how to navigate around scene in Unity and deploying the project from Unity to Android/iOS.
 
-**Project Settings:** 
+**Project Settings:**
+
   1.Unity 5.6.1p2
   2.GoogleVR UnitySDK:1.50.0
       
