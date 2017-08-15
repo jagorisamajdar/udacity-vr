@@ -3,8 +3,8 @@
 **Project Objective:** Customise the Carnival scene and deploy it to Android device.The goal of this project was basic familiarisation with the Unity editor, learning how to navigate around scene in Unity and deploying the project from Unity to Android/iOS.
 
 **Project Settings:** 
-  Unity 5.6.1p2
-  GoogleVR UnitySDK:1.50.0
+  1.Unity 5.6.1p2
+  2.GoogleVR UnitySDK:1.50.0
       
 **Installation on Android:**
 This project has been built using Android as the platform.
